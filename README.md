@@ -11,11 +11,20 @@
 
 <br/>
 
+#### Page thailand
+<img src="/resource/app_page1.gif" style="width: 30%;">
+
+<br/>
+
+#### Page world
+<img src="/resource/app_page2.gif" style="width: 30%;">
 
 
 
-### Api
+<br/>
+<br/>
 
-<img src="/resource/api_pic.png" style="width: 10%;">
+
+<img src="/resource/api_pic1.PNG" style="width: 30%;">
 
 - https://covid19.th-stat.com/th/api
