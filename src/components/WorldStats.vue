@@ -51,7 +51,7 @@
                     :class="`elevation-${hover ? 12 : 4}`"
                 >
                   <v-card-text class="titleCard" style="color: black">Total Recovered</v-card-text>
-                  <v-card-text class="text-center" style="color:black;"><h1>{{ totalRecovered }} deaths</h1></v-card-text>
+                  <v-card-text class="text-center" style="color:black;"><h1>{{ totalRecovered }} cases</h1></v-card-text>
 
                 </v-card>
               </template>
