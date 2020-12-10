@@ -1,24 +1,21 @@
-# covid_stat_19
+## Covid19 stats application
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Covid stats in Thailand and world stats overview
+- Create by `Mangkorn Ktw.`
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
+### Overview
+- This website took only 3 days to completed but I promise that i will try harder for the other project.
+- Codelab for pratices VueJs , Vuetify , Vuex
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<br/>
+
+
+
+
+### Api
+
+<img src="/resource/api_pic.png" style="width: 10%;">
+
+- https://covid19.th-stat.com/th/api
