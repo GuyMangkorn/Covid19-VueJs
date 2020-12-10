@@ -17,7 +17,7 @@
 <br/>
 
 #### Page world
-<img src="/resource/app_page2.gif" style="width: 30%;">
+<img src="/resource/app_page2_fix.gif" style="width: 30%;">
 
 
 
