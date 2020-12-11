@@ -7,7 +7,7 @@
 
 ### Overview
 - This website took only 3 days to completed but I promise that i will try harder for the other project.
-- Codelab for practices VueJs , Vuetify , Vuex
+- Codelab to practices VueJs , Vuetify , Vuex
 
 <br/>
 
